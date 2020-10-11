@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ToDoTEL306</string>
+    <string name="title">Solo para alumnos TEL 306</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido">Apellido</string>
+    <string name="dni">DNI</string>
+    <string name="codigo">Código</string>
+    <string name="carrera">Carrera</string>
+    <string name="clave">Clave</string>
+    <string name="register">Registrar</string>
+    <string name="tareas_pend">Tareas pendientes</string>
+    <string name="back">Resetear registro</string>
+    <string name="add_task">Agregar tarea</string>
+    <string name="no_task">No hay tareas pendientes</string>
+    <string name="add">Agregar</string>
+    <string-array name="carreras_array">
+        <item>Telecom</item>
+        <item>Electronica</item>
+        <item>Mecatronica</item>
+    </string-array>
+</resources>

@@ -1,0 +1,27 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="telecom" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">#08AEC3</item>
+        <item name="colorSecondary">#FF9800</item>
+        <item name="colorAccent">#FFEB3B</item>
+    </style>
+
+    <style name="electronica" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">#F44336</item>
+        <item name="colorSecondary">#FF9800</item>
+        <item name="colorAccent">#FFEB3B</item>
+    </style>
+
+    <style name="mecatronica" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">#673AB7</item>
+        <item name="colorSecondary">#00BCD4</item>
+        <item name="colorAccent">#FFEB3B</item>
+    </style>
+</resources>
